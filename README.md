@@ -38,7 +38,7 @@ Facing = 1 if Direction == 0 else 0\
 Sentence ∈ [1, 2, 3, 4, 5, 6] -> [sen_1, sen_2, sen_3, sen_4, sen_5, sen_6]\
 Calling = 1 if Sentence ∈ [1, 2, 3] else 0\
 Distance = ∈ [1, 2, 3] -> [1m, 3m, 5m]\
-VADIdx are determined from the Audacity's VAD log
+VADIdx refers to the number of times the user uttered in the experiment (e.g., VAD_Idx = 1 means the first utterance, 2 means the 2nd utterance..., etc.). This is determined from the Audacity's Voice Acitivity Detection (VAD) log.
 
 
 <!-- ## Reference
