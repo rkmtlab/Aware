@@ -41,8 +41,8 @@ Distance = ∈ [1, 2, 3] -> [1m, 3m, 5m]\
 VADIdx are determined from the Audacity's VAD log
 
 
-## Reference
-Xinlei Zhang, Zixiong Su, and Jun Rekimoto. 2022.  Aware: Intuitive Device Activation Using Prosody for Natural Voice Interactions (CHI '22). DOI:https://doi.org/10.1145/3491102.3517687.
+<!-- ## Reference
+Xinlei Zhang, Zixiong Su, and Jun Rekimoto. 2022.  Aware: Intuitive Device Activation Using Prosody for Natural Voice Interactions (CHI '22). DOI:https://doi.org/10.1145/3491102.3517687. -->
 
 
 ## Disclaimer
