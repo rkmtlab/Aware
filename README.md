@@ -31,7 +31,8 @@ The directory is organized as follows:
       * KeywordID_Direction_Facing_Sentence_Calling_Distance_ChannelNum_VADIdx.wav
 
 
-Specially, \
+Specifically, \
+KeywordID ∈ [1, 2, 3]
 Direction ∈ [0, 1, 2, 3] -> [0°, 90°, 180°, 270°]\
 Facing = 1 if Direction == 0 else 0\
 Sentence ∈ [1, 2, 3, 4, 5, 6] -> [sen_1, sen_2, sen_3, sen_4, sen_5, sen_6]\
