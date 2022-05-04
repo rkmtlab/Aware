@@ -44,6 +44,28 @@ VADIdx refers to the number of times the user uttered in the experiment (e.g., V
 <!-- ## Reference
 Xinlei Zhang, Zixiong Su, and Jun Rekimoto. 2022.  Aware: Intuitive Device Activation Using Prosody for Natural Voice Interactions (CHI '22). DOI:https://doi.org/10.1145/3491102.3517687. -->
 
+## Reference
+Zhang, Xinlei, Zixiong Su, and Jun Rekimoto. "Aware: Intuitive Device Activation Using Prosody for Natural Voice Interactions." CHI Conference on Human Factors in Computing Systems. 2022. [[ACM Digital Library]](https://dl.acm.org/doi/abs/10.1145/3491102.3517687)
+
+```
+@inproceedings{10.1145/3491102.3517687,
+author = {Zhang, Xinlei and Su, Zixiong and Rekimoto, Jun},
+title = {Aware: Intuitive Device Activation Using Prosody for Natural Voice Interactions},
+year = {2022},
+isbn = {9781450391573},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3491102.3517687},
+doi = {10.1145/3491102.3517687},
+abstract = { Voice interactive devices often use keyword spotting for device activation. However, this approach suffers from misrecognition of keywords and can respond to keywords not intended for calling the device (e.g., ”You can ask Alexa about it.”), causing accidental device activations. We propose a method that leverages prosodic features to differentiate calling/not-calling voices (F1 score: 0.869), allowing devices to respond only when called upon to avoid misactivation. As a proof of concept, we built a prototype smart speaker called Aware that allows users to control the device activation by speaking the keyword in specific prosody patterns. These patterns are chosen to represent people’s natural calling/not-calling voices, which are uncovered in a study to collect such voices and investigate their prosodic difference. A user study comparing Aware with Amazon Echo shows Aware can activate more correctly (F1 score 0.93 vs. 0.56) and is easy to learn and use.},
+booktitle = {CHI Conference on Human Factors in Computing Systems},
+articleno = {432},
+numpages = {16},
+keywords = {Prosody, Device Activation, Voice Interaction, Intention, Conversational Interface, Keyword Spotting},
+location = {New Orleans, LA, USA},
+series = {CHI '22}
+}
+```
 
 ## Disclaimer
 
@@ -52,3 +74,5 @@ THE PROGRAM IS DISTRIBUTED IN THE HOPE THAT IT WILL BE USEFUL, BUT WITHOUT ANY W
 
 IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW THE AUTHOR WILL BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 ```
+
+
